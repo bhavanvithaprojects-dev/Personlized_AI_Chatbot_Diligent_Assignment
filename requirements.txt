@@ -1,0 +1,8 @@
+streamlit
+langchain
+pinecone
+sentence-transformers
+ollama
+langchain-community
+langchain-google-genai
+google-generativeai
